@@ -1,0 +1,633 @@
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+5400 1080
+torch.Size([32, 3, 480, 320]) torch.Size([32, 1, 1025, 94])
+
+Epoch 0/29
+----------
+After 288 samples, loss is 599.7471313476562
+After 608 samples, loss is 593.0040700812089
+After 928 samples, loss is 586.0498730889682
+After 1248 samples, loss is 576.6274249737079
+After 1568 samples, loss is 569.9434148048867
+After 1888 samples, loss is 568.4869845115533
+After 2208 samples, loss is 565.3816815804744
+After 2528 samples, loss is 563.2499150143394
+After 2848 samples, loss is 563.1994193430697
+After 3168 samples, loss is 561.6769051599985
+After 3488 samples, loss is 562.0526649405103
+After 3808 samples, loss is 562.0012222418264
+After 4128 samples, loss is 559.9030435251635
+After 4448 samples, loss is 559.0688628052636
+After 4768 samples, loss is 558.7472163462799
+After 5088 samples, loss is 558.5586016193126
+Train Loss 17.375153769033925
+Validation Loss is 91.45778368470295
+
+Epoch 1/29
+----------
+After 288 samples, loss is 601.5133938259548
+After 608 samples, loss is 578.3333001387747
+After 928 samples, loss is 570.1528625488281
+After 1248 samples, loss is 566.9913635253906
+After 1568 samples, loss is 560.5871750189334
+After 1888 samples, loss is 554.1446641825013
+After 2208 samples, loss is 552.8979341811028
+After 2528 samples, loss is 554.7071610462816
+After 2848 samples, loss is 554.1220696267118
+After 3168 samples, loss is 554.4163457697088
+After 3488 samples, loss is 555.5998703142918
+After 3808 samples, loss is 556.4320894129136
+After 4128 samples, loss is 555.791968767033
+After 4448 samples, loss is 555.368520393646
+After 4768 samples, loss is 556.2076583964713
+After 5088 samples, loss is 555.3749746646521
+Train Loss 17.28848117404514
+Validation Loss is 91.49068210781594
+
+Epoch 2/29
+----------
+After 288 samples, loss is 592.5712348090278
+After 608 samples, loss is 570.0032107704565
+After 928 samples, loss is 561.599661991514
+After 1248 samples, loss is 560.3338098770533
+After 1568 samples, loss is 562.6744216607541
+After 1888 samples, loss is 559.3591939635196
+After 2208 samples, loss is 558.211719457654
+After 2528 samples, loss is 556.7989301077927
+After 2848 samples, loss is 556.4406920015142
+After 3168 samples, loss is 556.6901060162169
+After 3488 samples, loss is 555.5075073242188
+After 3808 samples, loss is 555.6659438189338
+After 4128 samples, loss is 554.3201147271682
+After 4448 samples, loss is 556.1480238660635
+After 4768 samples, loss is 556.2815908137584
+After 5088 samples, loss is 556.7464112095863
+Train Loss 17.286338625307437
+Validation Loss is 91.47926797989443
+
+Epoch 3/29
+----------
+After 288 samples, loss is 637.3331705729166
+After 608 samples, loss is 585.0308741519326
+After 928 samples, loss is 576.1954335179822
+After 1248 samples, loss is 573.9956383338341
+After 1568 samples, loss is 574.722759636081
+After 1888 samples, loss is 569.8213087178893
+After 2208 samples, loss is 565.294032442397
+After 2528 samples, loss is 564.7184598898585
+After 2848 samples, loss is 563.9075043067503
+After 3168 samples, loss is 559.837197043679
+After 3488 samples, loss is 559.7452227391234
+After 3808 samples, loss is 557.7368841091123
+After 4128 samples, loss is 557.3339895795482
+After 4448 samples, loss is 556.5308308772903
+After 4768 samples, loss is 556.1996830677826
+After 5088 samples, loss is 556.1299638088394
+Train Loss 17.284227114076966
+Validation Loss is 91.66096887004139
+
+Epoch 4/29
+----------
+After 288 samples, loss is 627.7370300292969
+After 608 samples, loss is 600.216104607833
+After 928 samples, loss is 573.321217504041
+After 1248 samples, loss is 570.4014407426884
+After 1568 samples, loss is 564.3120453503667
+After 1888 samples, loss is 561.7438892429158
+After 2208 samples, loss is 559.4287122643512
+After 2528 samples, loss is 559.8471080924891
+After 2848 samples, loss is 558.3132187061095
+After 3168 samples, loss is 559.2183384750829
+After 3488 samples, loss is 558.6287799800208
+After 3808 samples, loss is 558.3974296505712
+After 4128 samples, loss is 558.0945983413578
+After 4448 samples, loss is 558.7845628038584
+After 4768 samples, loss is 557.1444356009464
+After 5088 samples, loss is 556.614936492728
+Train Loss 17.284685329861112
+Validation Loss is 91.452827355358
+
+Epoch 5/29
+----------
+After 288 samples, loss is 617.3365681966146
+After 608 samples, loss is 576.9306030273438
+After 928 samples, loss is 569.5586358432112
+After 1248 samples, loss is 565.0572494115585
+After 1568 samples, loss is 560.6329762984295
+After 1888 samples, loss is 563.6904974468683
+After 2208 samples, loss is 564.3617783698483
+After 2528 samples, loss is 565.4814607644383
+After 2848 samples, loss is 563.4978719989905
+After 3168 samples, loss is 560.0893684156014
+After 3488 samples, loss is 557.1764632758744
+After 3808 samples, loss is 557.0434108702075
+After 4128 samples, loss is 556.6423900515534
+After 4448 samples, loss is 555.5277551884274
+After 4768 samples, loss is 555.3553298847787
+After 5088 samples, loss is 556.0462560113871
+Train Loss 17.278443569607205
+Validation Loss is 91.61502356179058
+
+Epoch 6/29
+----------
+After 288 samples, loss is 630.9639383951823
+After 608 samples, loss is 589.2556329024466
+After 928 samples, loss is 576.8745011954472
+After 1248 samples, loss is 570.9997629018931
+After 1568 samples, loss is 566.1225984534439
+After 1888 samples, loss is 562.136338056144
+After 2208 samples, loss is 563.4116608992866
+After 2528 samples, loss is 561.2876590777047
+After 2848 samples, loss is 557.6057965567942
+After 3168 samples, loss is 555.1887108388573
+After 3488 samples, loss is 557.2621902325832
+After 3808 samples, loss is 557.6564000233883
+After 4128 samples, loss is 558.6380929872971
+After 4448 samples, loss is 557.3073036687837
+After 4768 samples, loss is 555.8163616001206
+After 5088 samples, loss is 555.3191654997052
+Train Loss 17.282204900670934
+Validation Loss is 91.57187273187488
+
+Epoch 7/29
+----------
+After 288 samples, loss is 615.5437316894531
+After 608 samples, loss is 579.8189520584909
+After 928 samples, loss is 576.9554874814789
+After 1248 samples, loss is 570.564203506861
+After 1568 samples, loss is 570.5322421326929
+After 1888 samples, loss is 569.8927751961401
+After 2208 samples, loss is 565.3797567616339
+After 2528 samples, loss is 564.3680620797073
+After 2848 samples, loss is 562.3931596734551
+After 3168 samples, loss is 560.194915463226
+After 3488 samples, loss is 558.9730860158937
+After 3808 samples, loss is 558.2848831304983
+After 4128 samples, loss is 559.5305374500364
+After 4448 samples, loss is 558.6072027631801
+After 4768 samples, loss is 556.8444734099727
+After 5088 samples, loss is 555.8912731626499
+Train Loss 17.282282844826028
+Validation Loss is 91.54466396550094
+
+Epoch 8/29
+----------
+After 288 samples, loss is 604.2568427191841
+After 608 samples, loss is 570.8899760999178
+After 928 samples, loss is 556.108068005792
+After 1248 samples, loss is 556.0032426883013
+After 1568 samples, loss is 559.2000738649953
+After 1888 samples, loss is 556.5076635328389
+After 2208 samples, loss is 554.4330829122792
+After 2528 samples, loss is 553.7809282133851
+After 2848 samples, loss is 553.472064757615
+After 3168 samples, loss is 554.1839013918482
+After 3488 samples, loss is 554.067763582282
+After 3808 samples, loss is 553.9328703038833
+After 4128 samples, loss is 554.8825305081153
+After 4448 samples, loss is 554.0011713041677
+After 4768 samples, loss is 554.8956339791317
+After 5088 samples, loss is 555.6280951349991
+Train Loss 17.27601715653031
+Validation Loss is 91.61183274234361
+
+Epoch 9/29
+----------
+After 288 samples, loss is 624.5241902669271
+After 608 samples, loss is 589.5323984246505
+After 928 samples, loss is 582.5042945598734
+After 1248 samples, loss is 575.7949070074619
+After 1568 samples, loss is 571.6659888442682
+After 1888 samples, loss is 569.7513913946636
+After 2208 samples, loss is 567.1874584253284
+After 2528 samples, loss is 566.8729464374011
+After 2848 samples, loss is 563.6932002721207
+After 3168 samples, loss is 563.7455872815065
+After 3488 samples, loss is 562.9121127347333
+After 3808 samples, loss is 563.0084195177094
+After 4128 samples, loss is 562.6217462110889
+After 4448 samples, loss is 560.11829030428
+After 4768 samples, loss is 557.4882759247851
+After 5088 samples, loss is 555.9279950219881
+Train Loss 17.280006973831743
+Validation Loss is 91.39226686817793
+
+Epoch 10/29
+----------
+After 288 samples, loss is 584.677503797743
+After 608 samples, loss is 566.6733591180099
+After 928 samples, loss is 556.3746074808055
+After 1248 samples, loss is 552.7434355906951
+After 1568 samples, loss is 551.1250074736926
+After 1888 samples, loss is 553.6783374851033
+After 2208 samples, loss is 554.1884761202163
+After 2528 samples, loss is 555.1964764172518
+After 2848 samples, loss is 552.8333908252501
+After 3168 samples, loss is 554.6522367843473
+After 3488 samples, loss is 555.4453486171337
+After 3808 samples, loss is 554.191743738511
+After 4128 samples, loss is 553.7629510450732
+After 4448 samples, loss is 554.8688519155379
+After 4768 samples, loss is 554.6393399846634
+After 5088 samples, loss is 555.6419794814392
+Train Loss 17.281211717393663
+Validation Loss is 91.48546205070444
+
+Epoch 11/29
+----------
+After 288 samples, loss is 604.0801154242622
+After 608 samples, loss is 581.1962296335321
+After 928 samples, loss is 572.8537839692215
+After 1248 samples, loss is 567.9923291328626
+After 1568 samples, loss is 571.4913535604671
+After 1888 samples, loss is 564.5641107074285
+After 2208 samples, loss is 561.0457564644191
+After 2528 samples, loss is 561.5909829441505
+After 2848 samples, loss is 559.8004805318425
+After 3168 samples, loss is 556.9773994214607
+After 3488 samples, loss is 558.8353711049491
+After 3808 samples, loss is 558.1964516519498
+After 4128 samples, loss is 556.8150637131329
+After 4448 samples, loss is 556.6968100568373
+After 4768 samples, loss is 555.5609018210597
+After 5088 samples, loss is 555.2771556542355
+Train Loss 17.277101819073714
+Validation Loss is 91.44668904933975
+
+Epoch 12/29
+----------
+After 288 samples, loss is 611.8014153374565
+After 608 samples, loss is 579.1911091051603
+After 928 samples, loss is 571.8478825010102
+After 1248 samples, loss is 567.9566728640825
+After 1568 samples, loss is 564.8696357571349
+After 1888 samples, loss is 568.1418151855469
+After 2208 samples, loss is 566.4642435709635
+After 2528 samples, loss is 563.5219367304935
+After 2848 samples, loss is 562.0344639467389
+After 3168 samples, loss is 557.7092688974708
+After 3488 samples, loss is 558.2239197897255
+After 3808 samples, loss is 557.8199465455127
+After 4128 samples, loss is 556.4621929789698
+After 4448 samples, loss is 556.1675707041788
+After 4768 samples, loss is 555.7372366886011
+After 5088 samples, loss is 556.1098367942953
+Train Loss 17.279134137188947
+Validation Loss is 91.29575708468388
+
+Epoch 13/29
+----------
+After 288 samples, loss is 607.6474541558159
+After 608 samples, loss is 574.6985296952097
+After 928 samples, loss is 567.5873013200431
+After 1248 samples, loss is 557.9184781588041
+After 1568 samples, loss is 558.5494191695233
+After 1888 samples, loss is 557.756329552602
+After 2208 samples, loss is 555.6370040230129
+After 2528 samples, loss is 554.3401705584948
+After 2848 samples, loss is 556.8005696843179
+After 3168 samples, loss is 556.1145346285117
+After 3488 samples, loss is 555.0647252634031
+After 3808 samples, loss is 553.7265232631138
+After 4128 samples, loss is 556.140549534051
+After 4448 samples, loss is 555.3451667620982
+After 4768 samples, loss is 555.7379981943425
+After 5088 samples, loss is 556.2778992083088
+Train Loss 17.271701049804687
+Validation Loss is 91.4553145192041
+
+Epoch 14/29
+----------
+After 288 samples, loss is 616.4170871310764
+After 608 samples, loss is 576.5715653268915
+After 928 samples, loss is 572.2664226663524
+After 1248 samples, loss is 563.775380452474
+After 1568 samples, loss is 567.4556006606745
+After 1888 samples, loss is 563.9794849460408
+After 2208 samples, loss is 561.9799039536629
+After 2528 samples, loss is 558.6583673018444
+After 2848 samples, loss is 557.2342285842038
+After 3168 samples, loss is 556.9081140383325
+After 3488 samples, loss is 556.194723146771
+After 3808 samples, loss is 555.953913840927
+After 4128 samples, loss is 556.8246504909308
+After 4448 samples, loss is 555.4745823702366
+After 4768 samples, loss is 554.6269752451237
+After 5088 samples, loss is 555.6681453296974
+Train Loss 17.280419780589916
+Validation Loss is 91.52574139378073
+
+Epoch 15/29
+----------
+After 288 samples, loss is 565.2285529242622
+After 608 samples, loss is 567.8212569387335
+After 928 samples, loss is 568.3029795679553
+After 1248 samples, loss is 564.0707006209935
+After 1568 samples, loss is 564.9076463349012
+After 1888 samples, loss is 565.3870456501589
+After 2208 samples, loss is 560.8088701773381
+After 2528 samples, loss is 557.6443017887163
+After 2848 samples, loss is 557.2012260522736
+After 3168 samples, loss is 557.72571602253
+After 3488 samples, loss is 557.4545607260608
+After 3808 samples, loss is 557.1005292619977
+After 4128 samples, loss is 555.9129612649134
+After 4448 samples, loss is 556.1982068398016
+After 4768 samples, loss is 556.5589634428088
+After 5088 samples, loss is 554.7219412941603
+Train Loss 17.281728798195168
+Validation Loss is 91.5238187862719
+
+Epoch 16/29
+----------
+After 288 samples, loss is 646.3435668945312
+After 608 samples, loss is 598.7628752055921
+After 928 samples, loss is 587.5662168305496
+After 1248 samples, loss is 579.0911802634215
+After 1568 samples, loss is 571.1433541434152
+After 1888 samples, loss is 567.4831092963784
+After 2208 samples, loss is 560.616379889889
+After 2528 samples, loss is 561.008265241792
+After 2848 samples, loss is 560.5135014566143
+After 3168 samples, loss is 560.4462304934107
+After 3488 samples, loss is 559.01132510124
+After 3808 samples, loss is 558.070552280971
+After 4128 samples, loss is 557.246020176614
+After 4448 samples, loss is 556.1251440254047
+After 4768 samples, loss is 555.1406315541108
+After 5088 samples, loss is 554.233162741991
+Train Loss 17.280382063123916
+Validation Loss is 91.52009429584007
+
+Epoch 17/29
+----------
+After 288 samples, loss is 641.2247789171007
+After 608 samples, loss is 589.4842191997327
+After 928 samples, loss is 579.2006909600619
+After 1248 samples, loss is 570.9946860288962
+After 1568 samples, loss is 568.8470265913983
+After 1888 samples, loss is 562.6309969627251
+After 2208 samples, loss is 560.8990310447804
+After 2528 samples, loss is 558.9614960875692
+After 2848 samples, loss is 557.9220982240827
+After 3168 samples, loss is 559.2492167154948
+After 3488 samples, loss is 558.0020855544903
+After 3808 samples, loss is 556.7646889566373
+After 4128 samples, loss is 556.7265464132146
+After 4448 samples, loss is 557.0633940113535
+After 4768 samples, loss is 556.4333985603896
+After 5088 samples, loss is 555.7120215457941
+Train Loss 17.272866742169416
+Validation Loss is 91.49996150299641
+
+Epoch 18/29
+----------
+After 288 samples, loss is 612.6895582411024
+After 608 samples, loss is 573.1200192100123
+After 928 samples, loss is 557.4226305731412
+After 1248 samples, loss is 556.4330217410356
+After 1568 samples, loss is 558.1450718470982
+After 1888 samples, loss is 556.9535031076205
+After 2208 samples, loss is 557.9810556605242
+After 2528 samples, loss is 556.9054951728144
+After 2848 samples, loss is 555.6330216654231
+After 3168 samples, loss is 555.0248394590435
+After 3488 samples, loss is 555.5662794200653
+After 3808 samples, loss is 556.7457924209723
+After 4128 samples, loss is 558.3774532347686
+After 4448 samples, loss is 556.7756905315591
+After 4768 samples, loss is 556.1648633304059
+After 5088 samples, loss is 554.7310096212902
+Train Loss 17.274396435772932
+Validation Loss is 91.33548500730573
+
+Epoch 19/29
+----------
+After 288 samples, loss is 613.1760321723091
+After 608 samples, loss is 578.5103743703742
+After 928 samples, loss is 572.1256377121498
+After 1248 samples, loss is 570.0219194461138
+After 1568 samples, loss is 567.3179159359056
+After 1888 samples, loss is 563.6422770871955
+After 2208 samples, loss is 561.5658706443897
+After 2528 samples, loss is 561.4466869499109
+After 2848 samples, loss is 559.8553219913097
+After 3168 samples, loss is 558.7768739642519
+After 3488 samples, loss is 557.4315381531321
+After 3808 samples, loss is 556.2064434660583
+After 4128 samples, loss is 558.7171408483224
+After 4448 samples, loss is 555.910647604963
+After 4768 samples, loss is 556.5204842586645
+After 5088 samples, loss is 555.4750986159223
+Train Loss 17.274828756826896
+Validation Loss is 91.39414606150665
+
+Epoch 20/29
+----------
+After 288 samples, loss is 611.5277099609375
+After 608 samples, loss is 573.4918919613486
+After 928 samples, loss is 566.4041979559537
+After 1248 samples, loss is 566.805410531851
+After 1568 samples, loss is 563.5074531399474
+After 1888 samples, loss is 562.0766027418233
+After 2208 samples, loss is 560.4283535722374
+After 2528 samples, loss is 559.4622748652591
+After 2848 samples, loss is 559.0344474878204
+After 3168 samples, loss is 558.3515288998382
+After 3488 samples, loss is 558.8088625286697
+After 3808 samples, loss is 556.4467388762146
+After 4128 samples, loss is 555.9676837773286
+After 4448 samples, loss is 555.6710178732014
+After 4768 samples, loss is 553.8251772886955
+After 5088 samples, loss is 555.104196416507
+Train Loss 17.279055271855107
+Validation Loss is 91.53441608093782
+
+Epoch 21/29
+----------
+After 288 samples, loss is 610.6002163357205
+After 608 samples, loss is 584.9733517295435
+After 928 samples, loss is 578.7331448259025
+After 1248 samples, loss is 572.5892920860878
+After 1568 samples, loss is 571.7489567970742
+After 1888 samples, loss is 568.7449645996094
+After 2208 samples, loss is 567.2727851314821
+After 2528 samples, loss is 562.326672904099
+After 2848 samples, loss is 561.3473836491617
+After 3168 samples, loss is 560.222779553346
+After 3488 samples, loss is 557.8912759483408
+After 3808 samples, loss is 558.6550331436285
+After 4128 samples, loss is 558.9685101176417
+After 4448 samples, loss is 557.9494167849315
+After 4768 samples, loss is 557.3958224098154
+After 5088 samples, loss is 556.3904294187918
+Train Loss 17.275547440140336
+Validation Loss is 91.43103820277307
+
+Epoch 22/29
+----------
+After 288 samples, loss is 627.3692932128906
+After 608 samples, loss is 584.2746405350534
+After 928 samples, loss is 571.7856234846444
+After 1248 samples, loss is 568.5584638546675
+After 1568 samples, loss is 569.9645672233737
+After 1888 samples, loss is 569.2903095827264
+After 2208 samples, loss is 568.9441860033119
+After 2528 samples, loss is 565.2932986488826
+After 2848 samples, loss is 561.9442066664107
+After 3168 samples, loss is 560.3995355162957
+After 3488 samples, loss is 558.7261041763726
+After 3808 samples, loss is 557.7505959903492
+After 4128 samples, loss is 558.0375512884568
+After 4448 samples, loss is 557.5647822318317
+After 4768 samples, loss is 556.8942463509989
+After 5088 samples, loss is 555.861255381842
+Train Loss 17.277399472837097
+Validation Loss is 91.43629120214878
+
+Epoch 23/29
+----------
+After 288 samples, loss is 606.2354498969185
+After 608 samples, loss is 581.2075436240748
+After 928 samples, loss is 567.6895204741379
+After 1248 samples, loss is 565.855714455629
+After 1568 samples, loss is 565.8434890435666
+After 1888 samples, loss is 564.2337149927172
+After 2208 samples, loss is 563.3509972613791
+After 2528 samples, loss is 563.9485033252571
+After 2848 samples, loss is 560.6774326281601
+After 3168 samples, loss is 558.9000592472578
+After 3488 samples, loss is 557.6770601885034
+After 3808 samples, loss is 556.685130143366
+After 4128 samples, loss is 556.523840852486
+After 4448 samples, loss is 554.9670021551118
+After 4768 samples, loss is 556.4937498361472
+After 5088 samples, loss is 555.8585823107065
+Train Loss 17.271444577817565
+Validation Loss is 91.4687922655373
+
+Epoch 24/29
+----------
+After 288 samples, loss is 592.4191351996528
+After 608 samples, loss is 580.0795063219572
+After 928 samples, loss is 575.4306924754176
+After 1248 samples, loss is 572.9562370104668
+After 1568 samples, loss is 565.2063791703205
+After 1888 samples, loss is 562.6287712485104
+After 2208 samples, loss is 563.0486056562783
+After 2528 samples, loss is 561.2855792468107
+After 2848 samples, loss is 560.7680931519926
+After 3168 samples, loss is 558.2048370669587
+After 3488 samples, loss is 558.0749046955633
+After 3808 samples, loss is 556.1124752269071
+After 4128 samples, loss is 556.0775103901708
+After 4448 samples, loss is 555.5474451737438
+After 4768 samples, loss is 556.28126065043
+After 5088 samples, loss is 555.7139930965016
+Train Loss 17.270960535120082
+Validation Loss is 91.44874905347346
+
+Epoch 25/29
+----------
+After 288 samples, loss is 583.8692999945747
+After 608 samples, loss is 570.4752663060239
+After 928 samples, loss is 568.7042436270879
+After 1248 samples, loss is 565.7586990747697
+After 1568 samples, loss is 569.7413984026227
+After 1888 samples, loss is 569.3600831112619
+After 2208 samples, loss is 565.2585661514946
+After 2528 samples, loss is 563.2095182394679
+After 2848 samples, loss is 562.7116884381584
+After 3168 samples, loss is 560.656715470131
+After 3488 samples, loss is 560.2524562450724
+After 3808 samples, loss is 561.3721721232438
+After 4128 samples, loss is 559.2016081107679
+After 4448 samples, loss is 556.6147425809353
+After 4768 samples, loss is 557.20224224321
+After 5088 samples, loss is 555.5768046828936
+Train Loss 17.270955624050565
+Validation Loss is 91.42019550484196
+
+Epoch 26/29
+----------
+After 288 samples, loss is 615.2639804416233
+After 608 samples, loss is 567.1330839458265
+After 928 samples, loss is 566.949079842403
+After 1248 samples, loss is 563.4439642490485
+After 1568 samples, loss is 564.1407800791214
+After 1888 samples, loss is 558.3049218129304
+After 2208 samples, loss is 556.9389670551687
+After 2528 samples, loss is 557.949277853664
+After 2848 samples, loss is 558.6356101732575
+After 3168 samples, loss is 556.777021003492
+After 3488 samples, loss is 556.76406552376
+After 3808 samples, loss is 555.9152052422531
+After 4128 samples, loss is 555.8877255935078
+After 4448 samples, loss is 556.8912792617468
+After 4768 samples, loss is 556.7445746300205
+After 5088 samples, loss is 555.0071860259434
+Train Loss 17.278218734176072
+Validation Loss is 91.46122906319212
+
+Epoch 27/29
+----------
+After 288 samples, loss is 617.5777486165365
+After 608 samples, loss is 590.2234930741159
+After 928 samples, loss is 575.1684549265894
+After 1248 samples, loss is 566.6065000876403
+After 1568 samples, loss is 566.8031915158641
+After 1888 samples, loss is 565.274199404959
+After 2208 samples, loss is 563.3756545799366
+After 2528 samples, loss is 563.0825705226464
+After 2848 samples, loss is 561.6613196898043
+After 3168 samples, loss is 561.6597172900883
+After 3488 samples, loss is 557.0264240229895
+After 3808 samples, loss is 555.2993092256434
+After 4128 samples, loss is 555.1872111475745
+After 4448 samples, loss is 555.1849589176315
+After 4768 samples, loss is 554.6946210413171
+After 5088 samples, loss is 555.5388170158338
+Train Loss 17.27647870099103
+Validation Loss is 91.49039049679898
+
+Epoch 28/29
+----------
+After 288 samples, loss is 614.0570543077257
+After 608 samples, loss is 579.1494574295847
+After 928 samples, loss is 568.2224226326778
+After 1248 samples, loss is 562.391127366286
+After 1568 samples, loss is 563.6081374810666
+After 1888 samples, loss is 562.7916673563294
+After 2208 samples, loss is 559.352574887483
+After 2528 samples, loss is 555.9548892250544
+After 2848 samples, loss is 554.3938804369294
+After 3168 samples, loss is 555.5393741492069
+After 3488 samples, loss is 556.325805104107
+After 3808 samples, loss is 555.8954465208935
+After 4128 samples, loss is 557.0064780065255
+After 4448 samples, loss is 556.5972961864883
+After 4768 samples, loss is 555.8558208286362
+After 5088 samples, loss is 556.0159510966367
+Train Loss 17.27239929764359
+Validation Loss is 91.39513393981774
+
+Epoch 29/29
+----------
+After 288 samples, loss is 613.0342848036024
+After 608 samples, loss is 569.9665238229852
+After 928 samples, loss is 563.6626702670393
+After 1248 samples, loss is 560.2658315805288
+After 1568 samples, loss is 560.1290856186224
+After 1888 samples, loss is 558.2876483464645
+After 2208 samples, loss is 558.353781879812
+After 2528 samples, loss is 552.7676859022696
+After 2848 samples, loss is 554.00515472755
+After 3168 samples, loss is 554.7007051718356
+After 3488 samples, loss is 557.0361837684561
+After 3808 samples, loss is 556.229552966206
+After 4128 samples, loss is 557.3047310289486
+After 4448 samples, loss is 556.3762586854344
+After 4768 samples, loss is 555.5560026232828
+After 5088 samples, loss is 555.0128110489755
+Train Loss 17.27467475608543
+Validation Loss is 91.43938451052193
